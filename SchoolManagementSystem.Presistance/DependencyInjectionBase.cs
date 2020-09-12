@@ -21,8 +21,7 @@ namespace SchoolManagementSystem.Presistance
             });
 
             services.AddScoped<IApplicationDbContext>(provider => provider.GetService<ApplicationDbContext>());
-            services.AddTransient<IDateTimeServices, IDateTimeServices>();
-            services.AddScoped<IUserAccessor, UserAccessor>();
+           
 
             return services;
         }

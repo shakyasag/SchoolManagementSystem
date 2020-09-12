@@ -6,3 +6,4 @@ G:\SchoolManagementSystem\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1
 G:\SchoolManagementSystem\SchoolnManagementSystem.Domain\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.pdb
 G:\SchoolManagementSystem\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.dll
 G:\SchoolManagementSystem\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.pdb
+G:\SchoolManagementSystem\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.csproj.CoreCompileInputs.cache

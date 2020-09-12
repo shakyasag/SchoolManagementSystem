@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Text;
 using System.Text.Json.Serialization;
 
-namespace SchoolManagementSystem.Application.Auth.UserLogin.Command
+namespace SchoolnManagementSystem.Domain.Entity
 {
     [Owned]
     public class RefreshToken

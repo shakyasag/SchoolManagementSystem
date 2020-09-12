@@ -22,6 +22,7 @@ using Microsoft.OpenApi.Models;
 using SchoolManagementSystem.API.Helper;
 using SchoolManagementSystem.Application;
 using SchoolManagementSystem.Application.Common;
+using SchoolManagementSystem.Application.Common.Interface;
 using SchoolManagementSystem.Infrastructures.Common;
 using SchoolManagementSystem.Presistance;
 using SchoolnManagementSystem.Domain.Entity;
@@ -55,8 +56,9 @@ namespace SchoolManagementSystem.API
                     .AllowCredentials();
                 });
             });
-            services.AddInfrastructure(Configuration);
             services.AddApplication();
+            services.AddInfrastructure(Configuration);
+
             services.AddControllers(options =>
             {
                 var policy = new AuthorizationPolicyBuilder()
@@ -93,7 +95,10 @@ namespace SchoolManagementSystem.API
             services.AddControllersWithViews(); 
 
             services.AddRazorPages();
-
+            services.AddTransient<IDateTimeServices, DateTimeServices>();
+            services.AddScoped<IUserAccessor, UserAccessor>();
+            services.AddScoped<IJwtGenerator, JwtGenerator>();
+            services.AddScoped<IRefreshTokens, RefreshTokens>();
             services.AddAuthentication(x=> {
                 x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
                 x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;

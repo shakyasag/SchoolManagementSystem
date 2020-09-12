@@ -40,7 +40,7 @@ namespace SchoolManagementSystem.Infrastructures.Common
             var tokendesc = new SecurityTokenDescriptor
             {
                 Subject = new ClaimsIdentity(claim),
-                Expires = DateTime.Now.AddMinutes(30),
+                Expires = DateTime.UtcNow.AddMinutes(30),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config.GetSection("AppSettings:Token").Value)), SecurityAlgorithms.HmacSha256Signature)
 
             };

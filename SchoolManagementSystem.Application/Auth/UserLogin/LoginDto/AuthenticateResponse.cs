@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 using System.Text.Json.Serialization;
 
-namespace SchoolManagementSystem.Application.Auth.UserLogin.Command
+namespace SchoolManagementSystem.Application.Auth.UserLogin.LoginDto
 {
-   public  class AuthenticateResponse
+    public class AuthenticateResponses
     {
         public Guid Id { get; set; }
         public string FirstName { get; set; }
@@ -15,8 +15,8 @@ namespace SchoolManagementSystem.Application.Auth.UserLogin.Command
 
         [JsonIgnore] // refresh token is returned in http only cookie
         public string RefreshToken { get; set; }
-         
-        public AuthenticateResponse(UserDto User,string Jwttoken,string Refreshtoken)
+
+        public AuthenticateResponses(UserDtos User, string Jwttoken, string Refreshtoken)
         {
             Id = User.Id;
             FirstName = User.FirstName;

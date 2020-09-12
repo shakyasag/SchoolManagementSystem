@@ -6,3 +6,4 @@ G:\SchoolManagementSystem\SchoolManagementSystem.Shared\obj\Debug\netcoreapp3.1\
 G:\SchoolManagementSystem\SchoolManagementSystem.Shared\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.dll
 G:\SchoolManagementSystem\SchoolManagementSystem.Shared\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.pdb
 G:\SchoolManagementSystem\SchoolManagementSystem.Shared\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.csprojAssemblyReference.cache
+G:\SchoolManagementSystem\SchoolManagementSystem.Shared\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.csproj.CoreCompileInputs.cache

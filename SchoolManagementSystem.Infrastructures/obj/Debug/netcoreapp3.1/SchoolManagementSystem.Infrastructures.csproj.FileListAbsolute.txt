@@ -13,3 +13,4 @@ G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netco
 G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.pdb
 G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.dll
 G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.csproj.CoreCompileInputs.cache

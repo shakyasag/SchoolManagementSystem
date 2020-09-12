@@ -6,3 +6,9 @@ G:\SchoolManagementSystem\SchoolManagementSystem.Application\obj\Debug\netcoreap
 G:\SchoolManagementSystem\SchoolManagementSystem.Application\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Application.pdb
 G:\SchoolManagementSystem\SchoolManagementSystem.Application\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Application.dll
 G:\SchoolManagementSystem\SchoolManagementSystem.Application\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Application.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.Application\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.Application\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.Application\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.Application\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.Application\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Application.csproj.CopyComplete
+G:\SchoolManagementSystem\SchoolManagementSystem.Application\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Application.csproj.CoreCompileInputs.cache
