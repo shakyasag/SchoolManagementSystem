@@ -1,0 +1,607 @@
+G:\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.csprojAssemblyReference.cache
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\FluentValidation.WebApi.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\MediatR.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Application.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Presistance.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Application.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Presistance.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\staticwebassets\SchoolManagementSystem.API.StaticWebAssets.Manifest.cache
+G:\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\staticwebassets\SchoolManagementSystem.API.StaticWebAssets.xml
+G:\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.AssemblyInfoInputs.cache
+G:\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.AssemblyInfo.cs
+G:\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.RazorTargetAssemblyInfo.cache
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Mediator.Net.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\appsettings.json
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.exe
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.csproj.CopyComplete
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.deps.json
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.runtimeconfig.json
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.runtimeconfig.dev.json
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+G:\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+G:\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.csproj.CoreCompileInputs.cache
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Abp.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Castle.Core.AsyncInterceptor.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Castle.Facilities.Logging.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\DinkToPdf.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.genruntimeconfig.cache
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\appsettings.Production.json
+G:\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\appsettings.json
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\appsettings.Production.json
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.exe
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.deps.json
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.runtimeconfig.json
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.runtimeconfig.dev.json
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.pdb
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Abp.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Castle.Core.AsyncInterceptor.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Castle.Facilities.Logging.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\DinkToPdf.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\FluentValidation.WebApi.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Mediator.Net.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\MediatR.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Application.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Presistance.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Application.pdb
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.pdb
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Presistance.pdb
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.pdb
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.pdb
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.csprojAssemblyReference.cache
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.AssemblyInfoInputs.cache
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.AssemblyInfo.cs
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.RazorTargetAssemblyInfo.cache
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.csproj.CopyComplete
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\staticwebassets\SchoolManagementSystem.API.StaticWebAssets.Manifest.cache
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\staticwebassets\SchoolManagementSystem.API.StaticWebAssets.xml
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.pdb
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.genruntimeconfig.cache
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.csproj.CoreCompileInputs.cache
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\appsettings.Production.json
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\appsettings.json
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.exe
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.deps.json
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.runtimeconfig.json
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.runtimeconfig.dev.json
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.API.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Abp.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Castle.Core.AsyncInterceptor.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Castle.Facilities.Logging.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\DinkToPdf.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\FluentValidation.WebApi.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Mediator.Net.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\MediatR.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Application.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Presistance.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Application.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Presistance.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.csprojAssemblyReference.cache
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.AssemblyInfoInputs.cache
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.AssemblyInfo.cs
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.csproj.CoreCompileInputs.cache
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.RazorTargetAssemblyInfo.cache
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.csproj.CopyComplete
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\staticwebassets\SchoolManagementSystem.API.StaticWebAssets.Manifest.cache
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\staticwebassets\SchoolManagementSystem.API.StaticWebAssets.xml
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.API\obj\Debug\netcoreapp3.1\SchoolManagementSystem.API.genruntimeconfig.cache

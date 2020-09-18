@@ -1,0 +1,18 @@
+G:\SchoolManagementSystem\SchoolnManagementSystem.Domain\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.deps.json
+G:\SchoolManagementSystem\SchoolnManagementSystem.Domain\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.dll
+G:\SchoolManagementSystem\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.csprojAssemblyReference.cache
+G:\SchoolManagementSystem\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.AssemblyInfoInputs.cache
+G:\SchoolManagementSystem\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.AssemblyInfo.cs
+G:\SchoolManagementSystem\SchoolnManagementSystem.Domain\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.pdb
+G:\SchoolManagementSystem\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.dll
+G:\SchoolManagementSystem\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.pdb
+G:\SchoolManagementSystem\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.csproj.CoreCompileInputs.cache
+G:\own project\SchoolManagementSystem\src\SchoolnManagementSystem.Domain\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.deps.json
+G:\own project\SchoolManagementSystem\src\SchoolnManagementSystem.Domain\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.dll
+G:\own project\SchoolManagementSystem\src\SchoolnManagementSystem.Domain\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.pdb
+G:\own project\SchoolManagementSystem\src\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.csprojAssemblyReference.cache
+G:\own project\SchoolManagementSystem\src\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.AssemblyInfoInputs.cache
+G:\own project\SchoolManagementSystem\src\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.AssemblyInfo.cs
+G:\own project\SchoolManagementSystem\src\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.csproj.CoreCompileInputs.cache
+G:\own project\SchoolManagementSystem\src\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.dll
+G:\own project\SchoolManagementSystem\src\SchoolnManagementSystem.Domain\obj\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.pdb

@@ -1,0 +1,48 @@
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.deps.json
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.csprojAssemblyReference.cache
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.AssemblyInfoInputs.cache
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.AssemblyInfo.cs
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Application.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Application.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.csproj.CopyComplete
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.dll
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.pdb
+G:\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.csproj.CoreCompileInputs.cache
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.deps.json
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.pdb
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Application.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Application.pdb
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.pdb
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.pdb
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.csprojAssemblyReference.cache
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.AssemblyInfoInputs.cache
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.AssemblyInfo.cs
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.csproj.CoreCompileInputs.cache
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.csproj.CopyComplete
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.dll
+G:\own project\SchoolManagementSystem\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.deps.json
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Application.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Application.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolManagementSystem.Shared.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\bin\Debug\netcoreapp3.1\SchoolnManagementSystem.Domain.pdb
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.csprojAssemblyReference.cache
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.AssemblyInfoInputs.cache
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.AssemblyInfo.cs
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.csproj.CoreCompileInputs.cache
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.csproj.CopyComplete
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.dll
+G:\own project\SchoolManagementSystem\src\SchoolManagementSystem.Infrastructures\obj\Debug\netcoreapp3.1\SchoolManagementSystem.Infrastructures.pdb
